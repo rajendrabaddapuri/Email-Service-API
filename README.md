@@ -1,4 +1,4 @@
-# nodemailer
+# User Authentication & Email Service
 User Registration & Login:
 
 Used bcrypt for encrypting passwords and securely comparing them during login.
